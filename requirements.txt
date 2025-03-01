@@ -1,0 +1,4 @@
+requests==2.26.0
+Flask==2.3.2
+behave==1.2.6
+behavex==4.0.8
